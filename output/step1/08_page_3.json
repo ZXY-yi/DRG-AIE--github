@@ -1,0 +1,10 @@
+{
+    "image_path": "DRG_model\\\\output\\\\step0-digit-600kb\\\\08_page_3.png",
+    "recognition_time_sec": 0.33666539192199707,
+    "pages": [
+        {
+            "page_index": 1,
+            "results": []
+        }
+    ]
+}
