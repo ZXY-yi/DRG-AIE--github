@@ -1,0 +1,170 @@
+{
+  "01_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "01_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "02_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "02_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "03_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "03_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "04_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "04_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "05_discharge_boxed_digit_1.png": [
+    "2",
+    "医嘱转院，拟接收医疗机构名称：北京大学第三医院"
+  ],
+  "05_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "06_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "06_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "07_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "07_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "08_discharge_boxed_digit_1.png": [
+    "",
+    ""
+  ],
+  "08_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "09_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "09_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "10_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "10_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "11_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "11_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "12_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "12_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "13_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "13_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "14_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "14_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "15_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "15_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "16_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "16_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "17_discharge_boxed_digit_1.png": [
+    "4",
+    "非医嘱离院"
+  ],
+  "17_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "18_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "18_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "19_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "19_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ],
+  "20_discharge_boxed_digit_1.png": [
+    "1",
+    "医嘱离院"
+  ],
+  "20_gender_boxed_digit_1.png": [
+    "2",
+    "女"
+  ],
+  "21_discharge_boxed_digit_1.png": [
+    "3",
+    "医嘱转社区卫生服务机构/乡镇卫生院，拟接收医疗机构名称：XX镇社区卫生服务中心"
+  ],
+  "21_gender_boxed_digit_1.png": [
+    "1",
+    "男"
+  ]
+}
